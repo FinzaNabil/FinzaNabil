@@ -1,4 +1,4 @@
-![Banner](github-header-banner.png)
+![Banner](github-header-banner-black)
 
 # Hi, Guys 👋
 **Student | Learning Web Development**
